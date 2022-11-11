@@ -1,0 +1,189 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8/19/2021
+    Author     : wgfox
+*/
+
+@charset "UTF-8";
+/* CSS Document */
+
+.font1{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 50px;
+    position: fixed;
+    left: 30px;
+    top: 100px;
+    
+  }
+
+.font2{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 150px;
+    position: fixed;
+    left: 80px;
+    top: 100px;
+  }
+
+  .font3{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 150px;
+    position: fixed;
+    left: 233px;
+    top: 100px;
+  
+  }
+  
+.font4{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 150px;
+    position: fixed;
+    left: 370px;
+    top: 100px;
+    
+  }
+.font5{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    top: 100px;
+    position: fixed;
+    left: 500px;
+    column-width: 150px;
+    
+    
+  }
+  .font6{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 150px;
+    position: fixed;
+    left: 640px;
+    top: 100px;
+  }
+  .font7{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    top: 100px;
+    position: fixed;
+    left: 750px;
+    column-width: 150px;
+    
+  }
+  
+  .Data{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    column-width: 100px;
+  
+    
+  }
+  
+ .t_row {
+    color: #fff;
+    background: #000;
+    font-family: Arial, Helvetica, sans-serif; 
+    border: 1px solid white
+     }
+
+
+
+
+
+/*
+.th1 {
+    width: 100;
+   
+    position: absolute;
+    height: 2.5%;
+    top: 120px;
+    border: 1px solid #ffffff;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+  
+  
+}
+    
+.th2 {
+    
+  width: 300; 
+     position: absolute;
+     height: 2.5%;
+    top: 120px;
+     border: 1px solid #ffffff;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+  
+  
+}
+    
+.th3 {
+    
+  width: 500;
+     position: fixed;
+     height: 2.5%;
+    top: 120px;
+   
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.th4 {
+  /*  
+  width: 750px /* width of your table*/; 
+   /*  position: fixed;
+     height: 2.5%;
+    top: 120px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    
+.th5 {
+    
+  width: 900px /* width of your table*/; 
+ /*    position: fixed;
+     height: 2.5%;
+    top: 120px;
+ 
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.th6 {
+  /*  
+  width: 900px /* width of your table*/; 
+ /*    position: fixed;
+     height: 2.5%;
+    top: 120px;
+     color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.td {
+    position: relative;
+    top:0px;
+    left: 20px;
+    border: 1px solid #ffffff;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  
+  
+}
+
+*/

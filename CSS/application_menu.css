@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+style
+.grafana_text{
+  text-decoration: none;  
+  top:200px;
+  width: 100px;
+  left : 190px;
+  font-family: Arial, sans-serif;
+  color: #000;  
+}
+
+.spark_master_text{
+  text-decoration: none;  
+  top:200px;
+  width: 100px;
+  left : 380px;
+  font-family: Arial, sans-serif;
+  color: #000;  
+}
+
+.spark_history_text{
+  text-decoration: none;  
+  top:400px;
+  width: 100px;
+  left : 380px;
+  font-family: Arial, sans-serif;
+  color: #000;  
+}
+

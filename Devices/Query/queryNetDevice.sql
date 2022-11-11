@@ -1,0 +1,1 @@
+select NetDeviceID, DeviceName,Hostname, IPaddress, DeviceType, Notes FROM NetDevice

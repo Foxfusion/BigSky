@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 29, 2021, 1:34:10 PM
+    Author     : wgfox
+*/
+.ml {
+    color: #FFFFFF;
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+}
+

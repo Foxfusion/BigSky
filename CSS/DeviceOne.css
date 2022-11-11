@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 23, 2020
+    ModifiedL 07/19/2020
+    Author     : wgfox
+*/
+
+.font1{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 50px;
+    position: fixed;
+    left: 30px;
+    top: 100px;
+    
+  }
+
+.font2{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 150px;
+    position: fixed;
+    left: 80px;
+    top: 100px;
+  }
+
+  .font3{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 150px;
+    position: fixed;
+    left: 233px;
+    top: 100px;
+  
+  }
+  
+.font4{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 150px;
+    position: fixed;
+    left: 370px;
+    top: 100px;
+    
+  }
+.font5{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    top: 100px;
+    position: fixed;
+    left: 500px;
+    column-width: 150px;
+    
+    
+  }
+  .font6{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    column-width: 150px;
+    position: fixed;
+    left: 640px;
+    top: 100px;
+  }
+  .font7{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    top: 100px;
+    position: fixed;
+    left: 750px;
+    column-width: 150px;
+    
+  }
+  
+  .Data{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    column-width: 100px;
+  
+    
+  }
+  
+ .t_row {
+    color: #fff;
+    background: #000;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+     }

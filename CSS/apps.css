@@ -1,0 +1,138 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Createdon: 02/22/2020
+    Modified Date: 10/21/2022
+    Author: William Fox
+    Description: CSS For the Application.php
+    
+*/
+
+.grafana_text a {
+  text-decoration: none;  
+  top:200px;
+  width: 100px;
+  left : 190px;
+  font-family: Arial, sans-serif;
+  color: #000000;  
+}
+
+.spark_master_text a {
+  text-decoration: none;  
+  top:200px;
+  width: 100px;
+  left : 380px;
+  font-family: Arial, sans-serif;
+  color: #000000;  
+}
+
+.spark_history_text a {
+  text-decoration: none;  
+  top:400px;
+  width: 100px;
+  left : 380px;
+  font-family: Arial, sans-serif;
+  color: #000000;  
+}
+
+.phpmyadmin a {
+  text-decoration: none;  
+  top:400px;
+  width: 100px;
+  left : 380px;
+  font-family: Arial, sans-serif;
+  color: #000000;  
+}
+
+.azure a {
+    text-decoration: none;
+    top:500px;
+    width: 100px;
+    left : 380px;
+    font-family: Arial, sans-serif;
+    color: #000000;
+}
+
+
+
+.airflow {
+    position: absolute;
+    top:74px;
+    left: 55px;
+    width:270px;
+    height:195px;
+      
+}
+
+.atlas {
+     position: absolute;
+    top:74px;
+    left:280px;
+    width:170px;
+    height:195px;
+    
+}
+
+.grafana {
+    position: absolute;
+    top:150px;
+    left:200px;
+    width:170px;
+    height:95px;
+}
+
+.nifi {
+    position: absolute;
+    top:225px;
+    left:280px;
+    width:160px;
+    height:156px;
+}
+
+.Spark {
+    position: absolute;
+    top:225px;
+    left:490px;
+    width:300px;
+    height:200px;
+}
+.SparkHistory {
+    position: absolute;
+    top:500px;
+    left:120px;
+    width:250px;
+    height:200px;
+}
+.SparkWorker {
+    position: absolute;
+    top:500px;
+    left:550px;
+    width:300px;
+    height:200px;
+}
+
+
+.zeppelin {
+    position: absolute;
+    top:225px;
+    left:80px;
+    width:160px;
+    height:106px;
+}
+.webmin {
+    position: absolute;
+    top:225px;
+    left:700px;
+    width:160px;
+    height:156px;
+}
+.jupyter {
+    position: absolute;
+    top:225px;
+    left:700px;
+    width:160px;
+    height:156px;
+}

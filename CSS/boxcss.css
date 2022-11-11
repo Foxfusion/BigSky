@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 17, 2020, 7:34:23 PM
+    Author     : wgfox
+*/
+
+.greenbox {
+    position: absolute;
+    top:54px;
+    left:920px;
+    width:30px;
+    height:30px;
+    
+}

@@ -1,0 +1,72 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Aug 8, 2022, 9:05:41 PM
+    Author     : wgfox
+*/
+*,
+*::after
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    overflow-y: scroll;
+}
+
+/* Desktop Nav */
+
+.nav-container {
+    background: rgba(0, 0, 0, 1);
+    height: 130px;
+    z-index: 300;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    
+}
+
+.nav-container nav {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 8px;
+    height: 100%;
+}
+
+
+nav .desktop-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    list-style: none;
+}
+
+nav .desktop-nav li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    opacity: 0.8;
+    transition: opacity 400ms;
+    
+}
+
+nav .desktop-nav li a:hover {
+    opacity: 1px;
+}
+
+.link-logo {
+    background: url('../Images/foxbase.png');
+    display: block;
+    background-position: center;
+    height: 160px;
+    width: 140px;
+    background-repeat: no-repeat;
+}

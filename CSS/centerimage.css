@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 17, 2020, 9:46:41 PM
+    Author     : wgfox
+*/
+
+.image{
+
+   height: 100px;
+   left: 50%;
+   margin-top: 125px;
+   margin-left: 200px;
+   position: absolute;
+   top: 50%;
+   width: 100px;
+
+    
+}

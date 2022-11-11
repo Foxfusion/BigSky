@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 3, 2020, 6:49:52 PM
+    Author     : wgfox
+*/
+
+body {
+  padding-top: 20px;
+  background: #f5f7f8;
+}
+
+.grid-1 {
+  display: grid;
+  width: 100%;
+  max-width: 750px;
+  margin: 0 auto;
+  
+  grid-template-columns: 1fr 1fr minmax(160px, 1fr);
+  
+  grid-gap: 20px;
+  position: relative;
+  
+}
+
+/* items */
+
+.grid-1 div {
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  }
+
+/* specific item styles */
+
+.item-1 {
+  background: #b03532;
+}
+.item-2 {
+  background: #33a8a5;
+  position: absolute;
+  left: 100px;
+  top: 30px;
+}
+.item-3 {
+  background: #30997a;
+}
+.item-4 {
+  background: #6a478f;
+}
+.item-5 {
+  background: #da6f2b;
+}
+.item-6 {
+  background: #3d8bb1;
+}
+.item-7 {
+  background: #e03f3f;
+}
+.item-8 {
+  background: #59a627;
+}
+.item-9 {
+  background: #4464a1;
+}

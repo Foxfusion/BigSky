@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 30, 2021
+
+    Author     : wgfox
+*/
+.jlatxt {
+    position: absolute;
+    color: #ffffff;
+    font-family: arial;
+    top:95px;
+    left:125px;
+}
+.jla {
+    position: absolute;
+    top:150px;
+    left: 55px;
+    width:270px;
+    height:195px;
+}
+.jsatxt {
+    position: absolute;
+    color: #ffffff;
+    font-family: arial;
+    top:439px;
+    left:125px;
+}
+ .jsa {
+    position: absolute;
+    top:500px;
+    left: 55px;
+    width:270px;
+    height:195px;
+ } 
+ .sstxt {
+    position: absolute;
+    color: #ffffff;
+    font-family: arial;
+    top:95px;
+    left:820px;
+}
+ .ss {
+    position: absolute;
+    top:150px;
+    left:800px;
+    width:270px;
+    height:195px;
+ } 
+ .doompatroltxt {
+    position: absolute;
+    color: #ffffff;
+    font-family: arial;
+    top: 439px;
+    left: 840px;
+}
+  .doompatrol {
+    position: absolute;
+    top:500px;
+    left: 800px;
+    width:270px;
+    height:195px;
+  }  
+  .legion {
+    position: absolute;
+    top:74px;
+    left: 55px;
+    width:270px;
+    height:195px;
+  }

@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 5, 2020, 9:58:09 PM
+    Author     : wgfox
+*/
+*
+{
+    padding:0px;
+    margin:0px;
+}
+
+body
+{
+    background-color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu a {
+    color:#FFFFFF;
+    text-decoration: none;  
+}
+
+.menu li
+{
+    width: 1100px;
+    position: static;
+    top:30px;
+    left:150px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    color:#FFFFFF;
+}
+
+.menu li a:hover
+{
+  
+ text-align: right;
+ width:150px;
+ border: 2px solid #ffffff;
+  
+
+  
+    
+    
+  
+    
+  
+    
+}
+
+
+
+
+
